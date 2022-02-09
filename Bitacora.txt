@@ -1,0 +1,6 @@
+Anomalia,Los sintomas que siento se han vuelto cada dia peor espero mejorar algun dia siguiendo el tratamiento,01/febrero/2022
+Novedad,Aprobaron recientemente un traatamiento que estaba pendiente de respuesta Confirmar el papeleo en la EPS Cita mas cercana para el 3 de Febrero,01/febrero/2022
+Resultados ,El de hoy dieron los resultados de los examenes. Resulta que arrojaron resultados no evidentes. Se tiene que repetir la prueba.,01/febrero/2022
+Reporte Diario,En el dia el paciente presento buenos sintomas y se le ve mejoria. El proceso a sido satisfactorio. Seguira teniendo eventuales y concurridas visitas para monitorear sus signos vitales,01/febrero/2022
+Reporte semanal,El paciente ya no requiere de asistencia medica domiciliaria. Paciente estable,01/febrero/2022
+Reporte mensual,Paciente se le empieza un tratamiento nuevo,01/febrero/2022
